@@ -32,7 +32,7 @@ import com.github.fedy2.weather.data.unit.DegreeUnit;
  */
 public class YahooWeatherService {
 
-	private static final String WEATHER_SERVICE_BASE_URL = "https://query.yahooapis.com/v1/public/yql";
+	private static final String WEATHER_SERVICE_BASE_URL = "https://weather-ydn-yql.media.yahoo.com/forecastrss";
 
 	private static final int DEFAULT_BUFFER_SIZE = 1024 * 4;
 
